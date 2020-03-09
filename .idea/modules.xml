@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/four-project-common/four-project-common.iml" filepath="$PROJECT_DIR$/four-project-common/four-project-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/four-project-dependencies/four-project-dependencies.iml" filepath="$PROJECT_DIR$/four-project-dependencies/four-project-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/four-project-eureka-server/four-project-eureka-server.iml" filepath="$PROJECT_DIR$/four-project-eureka-server/four-project-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/four-project-home.iml" filepath="$PROJECT_DIR$/.idea/four-project-home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/four-project-regist-service/four-project-regist-service.iml" filepath="$PROJECT_DIR$/four-project-regist-service/four-project-regist-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/four-project-regist-web/four-project-regist-web.iml" filepath="$PROJECT_DIR$/four-project-regist-web/four-project-regist-web.iml" />
     </modules>
   </component>
 </project>

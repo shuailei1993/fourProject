@@ -3,6 +3,17 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/four-project-common/pom.xml" />
+        <option value="$PROJECT_DIR$/four-project-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/four-project-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/four-project-regist-service/pom.xml" />
+        <option value="$PROJECT_DIR$/four-project-regist-web/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>

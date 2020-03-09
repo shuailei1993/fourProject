@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="8" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="four-project-dependencies" />
+        <module name="four-project-regist-service" />
+        <module name="four-project-common" />
+        <module name="four-project-eureka-server" />
+        <module name="four-project-regist-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="four-project-common" target="1.5" />
+      <module name="four-project-dependencies" target="1.5" />
+      <module name="four-project-eureka-server" target="1.5" />
+      <module name="four-project-regist-service" target="1.5" />
+      <module name="four-project-regist-web" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
